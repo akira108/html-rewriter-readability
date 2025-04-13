@@ -1,6 +1,6 @@
 {
 	"name": "@akira108sys/html-rewriter-readability",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A library to extract readable content with Mozilla/Readability algorithm using Cloudflare HTMLRewriter.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
